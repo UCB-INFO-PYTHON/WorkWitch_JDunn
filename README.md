@@ -1,6 +1,8 @@
 # You Better Work, Witch
 **Jimmy Dunn w200 Project 1**
+
 **Fall 2018**
+
 **Email:** jdunn@ischool.berkeley.edu
 
 Title Citation: https://www.youtube.com/watch?v=pt8VYOfr8To
